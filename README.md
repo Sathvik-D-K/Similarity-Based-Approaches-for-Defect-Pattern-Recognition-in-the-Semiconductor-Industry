@@ -1,0 +1,2 @@
+# Similarity-Based-Approaches-for-Defect-Pattern-Recognition-in-the-Semiconductor-Industry
+This research integrates the use of Siamese Neural Networks with computer vision techniques to detect defect patterns on semiconductor wafer maps. The outcomes of this research can serve as a foundation for the development of similarity-based approaches in defect pattern recognition within the semiconductor industry.
